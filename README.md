@@ -2,4 +2,4 @@
 
 Low Quality Mandelbrot Set in WebGL
 
-[divyamahuja.github.io/Mandelbrot/](divyamahuja.github.io/Mandelbrot/)
+[https://divyamahuja.github.io/Mandelbrot/](https://divyamahuja.github.io/Mandelbrot/)
