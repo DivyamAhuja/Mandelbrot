@@ -163,6 +163,7 @@ function Init(){
       loop();
     }
   }
+
   window.addEventListener('resize', OnResize);
   window.addEventListener('wheel', OnMouseZoom);
   window.addEventListener('mousemove', OnMouseMove);
